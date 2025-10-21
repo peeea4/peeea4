@@ -10,7 +10,7 @@
 **State Management:** Redux Toolkit, RTK Query, Zustand  
 **Forms:** React Hook Form, Formik  
 **Styling:** CSS Modules, Tailwind CSS, PostCSS  
-**Animations & UI:** Framer Motion, Recharts, ShadCN/UI, Radix UI  
+**Animations & UI:** Framer Motion, Recharts, ShadCN/UI
 **Tools & DevOps:** Git, Vite, Webpack, ESLint, Prettier  
 
 ---
@@ -19,7 +19,7 @@
 
 #### 🧠 [AI Resume Analyzer](https://github.com/peeea4/resume-analyzer)
 Веб-приложение для анализа резюме с использованием AI.  
-**Стек:** Next.js, TypeScript, RTK Query, Tailwind CSS  
+**Стек:** React, TypeScript, Tailwind CSS  
 **Особенности:** интеграция с AI API, адаптивный UI, оптимизация рендеринга данных.
 
 #### 🎬 [Movie App (Mobile)](https://github.com/peeea4/movie-mobile-app)
