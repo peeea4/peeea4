@@ -9,9 +9,9 @@
 **Frontend:** React, Next.js, React Native, TypeScript, JavaScript  
 **State Management:** Redux Toolkit, RTK Query, Zustand  
 **Forms:** React Hook Form, Formik  
-**Styling:** CSS Modules, Tailwind CSS, PostCSS  
+**Styling:** CSS Modules, Tailwind CSS, PostCSS, styled-components  
 **Animations & UI:** Framer Motion, Recharts, ShadCN/UI
-**Tools & DevOps:** Git, Vite, Webpack, ESLint, Prettier  
+**Tools & DevOps:** Git, Vite, Webpack, ESLint, Prettier, Storybook, GitHub Actions, GitLab CI/CD  
 
 ---
 
@@ -23,8 +23,8 @@
 **Особенности:** интеграция с AI API, адаптивный UI, оптимизация рендеринга данных.
 
 #### 🎬 [Movie App (Mobile)](https://github.com/peeea4/movie-mobile-app)
-Мобильное приложение для поиска и просмотра фильмов.  
-**Стек:** React Native, TypeScript, TMDB API  
+Мобильное приложение для поиска информации о фильмах и просмотра отзывов.  
+**Стек:** React Native, TypeScript, TMDB API, AppWrite
 **Особенности:** кастомная навигация, оптимизация запросов, анимации интерфейса.
 
 ---
