@@ -10,7 +10,7 @@
 **State Management:** Redux Toolkit, RTK Query, Zustand  
 **Forms:** React Hook Form, Formik  
 **Styling:** CSS Modules, Tailwind CSS, PostCSS, styled-components  
-**Animations & UI:** Framer Motion, Recharts, ShadCN/UI
+**Animations & UI:** Framer Motion, Recharts, ShadCN/UI  
 **Tools & DevOps:** Git, Vite, Webpack, ESLint, Prettier, Storybook, GitHub Actions, GitLab CI/CD  
 
 ---
