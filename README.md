@@ -78,16 +78,6 @@ Cross-platform mobile application for browsing movies, ratings, and reviews.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peeea4&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peeea4&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeea4&layout=compact&theme=transparent" />
-</p>
-
----
-
 ## 📫 Contact
 
 Email: nikita.gabetc@gmail.com  
