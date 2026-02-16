@@ -1,50 +1,104 @@
-# 👋 Привет, я Никита — Frontend Developer из Минска
+# 👋 Hi, I'm Nikita — Frontend / Fullstack Developer
 
-Разрабатываю современные веб- и мобильные приложения на React, Next.js и React Native. Уделяю внимание архитектуре, читаемости кода и производительности. Участвую в обсуждениях продукта, предлагаю улучшения и реализую фичи от идеи до продакшена.
+Frontend-focused engineer with 4+ years of experience building scalable web and mobile applications using React, Next.js, React Native, and TypeScript.
 
----
+I specialize in building maintainable frontend architectures, complex form systems, and high-performance data-driven applications. I have production experience across fintech, mobile, and fullstack systems — from database design and REST APIs to responsive UI.
 
-### 🛠️ Технологический стек
-
-**Frontend:** React, Next.js, React Native, TypeScript, JavaScript  
-**State Management:** Redux Toolkit, RTK Query, Zustand  
-**Forms:** React Hook Form, Formik  
-**Styling:** CSS Modules, Tailwind CSS, PostCSS, styled-components  
-**Animations & UI:** Framer Motion, Recharts, ShadCN/UI  
-**Tools & DevOps:** Git, Vite, Webpack, ESLint, Prettier, Storybook, GitHub Actions, GitLab CI/CD  
+I care about clean architecture, performance, and developer experience, and actively contribute to product discussions and technical decisions.
 
 ---
 
-### 🚀 Избранные проекты
+## 🚀 Core Tech Stack
 
-#### 🧠 [AI Resume Analyzer](https://github.com/peeea4/ai-resume-analyzer)
-Веб-приложение для анализа резюме с использованием AI.  
-**Стек:** React, TypeScript, Tailwind CSS  
-**Особенности:** интеграция с AI API, адаптивный UI, оптимизация рендеринга данных.  
+**Frontend**
+- React, Next.js, TypeScript, JavaScript (ES6+)
+- Redux Toolkit, RTK Query, Zustand
+- React Hook Form, Formik, Yup
+- TailwindCSS, CSS Modules, styled-components
+- Framer Motion, Recharts, ShadCN/UI
 
-#### 🎬 [Movie App (Mobile)](https://github.com/peeea4/movie-mobile-app)
-Мобильное приложение для поиска информации о фильмах и просмотра отзывов.  
-**Стек:** React Native, TypeScript, TMDB API, AppWrite  
-**Особенности:** кастомная навигация, оптимизация запросов, анимации интерфейса.  
+**Mobile**
+- React Native, Expo
+- WebSockets, real-time updates
+- Cross-platform architecture
+
+**Backend**
+- Node.js, NestJS
+- REST API design
+- PostgreSQL, Prisma
+
+**Tools**
+- Git, GitHub Actions, GitLab CI/CD
+- Webpack, Vite
+- ESLint, Prettier
+- Storybook
 
 ---
 
-### 📈 GitHub Статистика
+## 📦 Featured Projects
+
+### 🧠 AI Resume Analyzer  
+https://github.com/peeea4/ai-resume-analyzer  
+
+AI-powered web application for analyzing resumes and extracting structured insights.
+
+**Tech stack:** React, TypeScript, TailwindCSS  
+
+**Highlights:**
+- Integrated external AI API for resume analysis
+- Built responsive and scalable UI architecture
+- Optimized rendering performance and state updates
+- Implemented clean and modular component structure
+
+---
+
+### 🎬 Movie Mobile App  
+https://github.com/peeea4/movie-mobile-app  
+
+Cross-platform mobile application for browsing movies, ratings, and reviews.
+
+**Tech stack:** React Native, TypeScript, TMDB API, Appwrite  
+
+**Highlights:**
+- Built scalable mobile architecture using React Native
+- Integrated external REST APIs with optimized data fetching
+- Implemented smooth UI animations and responsive layouts
+- Designed reusable components and navigation structure
+
+---
+
+## 🏢 Professional Experience Highlights
+
+- Built fintech CRM frontend with complex dashboards, forms, and data-heavy UI
+- Reduced form re-renders by ~40% by migrating from Formik to React Hook Form
+- Improved Lighthouse performance score from 72 to 90+
+- Designed REST APIs with NestJS and PostgreSQL
+- Developed real-time mobile features using WebSockets
+- Built fullstack features from database schema to production UI
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peeea4&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peeea4&theme=transparent" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeea4&layout=compact&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=peeea4&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peeea4&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeea4&layout=compact&theme=transparent" />
 </p>
 
 ---
 
-### 💬 Контакты
+## 📫 Contact
 
-📧 **Email:** [nikita.gabetc@gmail.com](mailto:nikita.gabetc@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/nikita-gabetc](https://www.linkedin.com/in/nikita-gabetc/)  
-💬 **Telegram:** [@nikita_gabetc](https://t.me/nikita_gabetc)
+Email: nikita.gabetc@gmail.com  
+LinkedIn: https://linkedin.com/in/nikita-gabetc  
+Telegram: https://t.me/nikita_gabetc  
 
 ---
 
-💡 *Открыт к интересным предложениям и новым вызовам. Давайте свяжемся!*
+## 🎯 Current Focus
+
+- Scalable frontend architecture
+- React and Next.js applications
+- High-performance UI and data-heavy interfaces
+- Fullstack development with Node.js and PostgreSQL
